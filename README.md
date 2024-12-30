@@ -1,6 +1,6 @@
 # Pattern-Based Trading System
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![License](https://img.shields.io/badge/license-Apache-2)
 
 ## Description
 The **Pattern-Based Trading System** is a Python-based library for analyzing financial time-series data. It utilizes advanced algorithms like **Soft Dynamic Time Warping (Soft-DTW)** and **Bayesian Optimization** to identify profitable trading patterns. The system compares **Buy-and-Hold** and **Active Trading** strategies to maximize returns, ensuring no data leakage or self-matching.
