@@ -1,0 +1,1 @@
+# pattern-trading-system
