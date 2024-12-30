@@ -11,7 +11,6 @@ The **Pattern-Based Trading System** is a Python-based library for analyzing fin
 - [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Multi-dimensional **Soft-DTW** for pattern matching with both price and volume data.
